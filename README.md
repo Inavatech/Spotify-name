@@ -1,5 +1,9 @@
 
-https://github.com/user-attachments/assets/4c7e4275-b860-4f5f-a027-8fa4f81256dd
+
+
+https://github.com/user-attachments/assets/d743a14d-9174-4b1c-adcd-4eb8fe0922d5
+
+
 # Spotify-clone 
 by avani singhal
 #output
