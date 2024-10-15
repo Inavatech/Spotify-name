@@ -1,1 +1,2 @@
-# Spotify-name
+# Spotify-clone 
+by avani singhal
